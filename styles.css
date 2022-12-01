@@ -1,5 +1,6 @@
 *{
   background-color: #FFACC7;
+  max-width: 100%;
 }
 
 .rock-img , .paper-img , .scissor-img{
